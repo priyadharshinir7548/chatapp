@@ -4,3 +4,4 @@ Author: priyadharshini
 2.chat screen code
 3.last seen code
 4.attachment(audio,video,images) code
+5.hiding the last seen

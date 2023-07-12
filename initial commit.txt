@@ -1,0 +1,6 @@
+This is chatapp code
+Author: priyadharshini
+1.profile page code
+2.chat screen code
+3.last seen code
+4.attachment(audio,video,images) code
